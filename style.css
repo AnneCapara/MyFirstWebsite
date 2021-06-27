@@ -1,0 +1,66 @@
+
+  h1 {
+    color: black;
+    font-family: cursive;
+  }
+
+  h2 {
+    color: red;
+    font-family: fantasy;
+    background-color: rgb(255, 0, 0);
+    color: rgba(255, 0, 0, 0.5);
+  }
+
+  .welcome {
+    background-color: salmon;
+    color: white;
+    text-align: center;
+  }
+
+  .hidden-gems {
+    color: blue;
+    font-style: italic;
+  }
+
+  body {
+    background-color: rgba(0, 128, 0, 0.3);
+  }
+
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+
+  .canada-flag {
+    float: left;
+    margin: 10px;
+
+  }
+
+  .flag-girl {
+    border-radius: 50px;
+  }
+
+  .navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: salmon;
+  }
+
+  .menu-item {
+    float: left;
+    border-right: 5px solid white;
+  }
+
+  .menu-item a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+  }
+
+  .navbar {
+    margin-bottom: 50px;
+  }
